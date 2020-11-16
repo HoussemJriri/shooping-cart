@@ -1,0 +1,46 @@
+
+
+.row {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid gray;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+.container {
+    border :0.5px  gray;
+    background-color: rosybrown;
+    border-radius: 10px;
+    
+    
+}
+.table {
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+    
+.fas {
+     cursor: pointer;
+     text-align: center;
+}
+.far {
+    cursor: pointer;
+}
+.like {
+    color: red;
+}
+.nprice {
+    text-align: center;
+}
+#ntotal {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+  
+
+  
+   
